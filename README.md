@@ -1,1 +1,1 @@
-# FAREHHGFFDTGFD
+name = input('Enter you name:')
